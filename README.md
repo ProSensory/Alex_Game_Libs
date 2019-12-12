@@ -11,10 +11,11 @@ Reasons for Starting On Project:
 This Project is for the sole purpose of demonstrating my abilities in Project Design. 
 
 What I Am trying to demonstrate in this project:
-1. My independence from usage of external libraries 
-2. To design clean and readable code. 
-3. My skills in algorithmic design and problem solving. 
-4. To not steal from any unlicensed or licensed sources on the internet. 
+1. Independence from usage of external libraries 
+2. Design clean, readable, and well documented code. 
+3. Document progress.
+4. Skillfully designs algorithms and programming logic.
+5. Refrain from using any unlicensed or licensed sources on the internet. 
 
 Project Goals:
 1. 2D/3D Soft Game Engine
