@@ -2,7 +2,10 @@
 
 
 Start Date:
-This gamelibrary is not finished and was started on 12/12/2019.
+12/12/2019
+
+Current State:
+Not Finished
 
 Reasons for Starting On Project:
 This Project is for the sole purpose of demonstrating my abilities in Project Design. 
