@@ -14,7 +14,7 @@ What I Am trying to demonstrate in this project:
 1. Independence from usage of external libraries 
 2. Design clean, readable, and well documented code. 
 3. Document progress.
-4. Skillfully designs algorithms and programming logic.
+4. Skillfully design algorithms and programming logic.
 5. Refrain from using any unlicensed or licensed sources on the internet. 
 
 Project Goals:
