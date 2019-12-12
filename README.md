@@ -25,7 +25,7 @@ Project Goals:
 6. No external 2D or 3D Physics libraries
 7. To design %100 original C# code.
 
-Goal accomplished in order of completion:
+Goals accomplished in order of completion:
 1. Brain-stormed minimal needs for the game engine. (12/12/2019)
 2. Designed Naming schemes for Namespaces, Classes, and Structs. (12/12/2019)
 3. Made contracts for Vector Structs. (12/12/2019)
