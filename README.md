@@ -30,8 +30,8 @@ Goals accomplished in order of completion:
 2. Designed Naming schemes for Namespaces, Classes, and Structs. (12/12/2019)
 3. Made contracts for Vector Structs. (12/12/2019)
 4. Made contracts for GameObject Classes. (12/12/2019)
-5. Implemented Vector Structs for Linear Algebra Operations. (12/12/2019)
-6. Implemented GameObject Class for Video Game Engine Logic. (12/12/2019)
+5. Implemented contracts for Vector Structs for Linear Algebra Operations. (12/12/2019)
+6. Implemented contract for GameObject Class for Video Game Engine Logic. (12/12/2019)
 8. Created GITHUB and started submition process (12/12/2019)
 7. Updated README on GITHUB (12/12/2019)
 
