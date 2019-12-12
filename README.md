@@ -8,7 +8,7 @@ Current State:
 Not Finished
 
 Reasons for Starting On Project:
-This Project is for the sole purpose of demonstrating my abilities in Project Design and implementation. 
+This Project is for the sole purpose of demonstrating my abilities in Project Design and Implementation. 
 
 What I Am trying to demonstrate in this project:
 1. Independence from usage of external libraries 
